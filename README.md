@@ -2,4 +2,4 @@
 
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
-* **WPSS v3.6** ([DOWNLOAD](https://github.com/langloisga/TestingWCAG2/TestingWCAG2-master.zip))
+* **WPSS v3.6** ([DOWNLOAD](https://github.com/langloisga/TestingWCAG2))
