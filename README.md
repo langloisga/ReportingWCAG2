@@ -5,11 +5,11 @@ Getting Started on reviewing W3C standards
 Success Criteria  WACAG2 AA
 
 
-Guideline 1.1 Text Alternatives
+Guideline 1.1 Text Alternatives\n
 1.1.1 Non-text content
 
 
-Guideline 1.2 Time-based Media
+Guideline 1.2 Time-based Media/n
 1.2.1 Audio-only and Video-only (Prerecorded)
 
 1.2.2 Captions (Prerecorded)
