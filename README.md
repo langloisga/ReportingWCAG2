@@ -2,12 +2,12 @@ TestingWCAG2
 ============
 
 Getting Started on reviewing W3C standards
-Success Criteria  WACAG2 AA
+Success Criteria  WCAG2 AA
 
 
 Guideline 1.1 Text Alternatives
 
-<B 1.1.1 Non-text content>
+1.1.1 Non-text content
 ____________________________
 
 Guideline 1.2 Time-based Media
