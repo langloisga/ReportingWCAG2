@@ -1,21 +1,6 @@
-TestingWCAG2
-============
+# Testing Web pages based on WCAG2 standards
 
-Getting Started on reviewing W3C standards
-Success Criteria  WCAG2 AA
+[![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
-<p align="right">''[Download]''</p>
+* **WPSS v3.6** ([PWGSC WPSS tool v3.6](https://github.com/langloisga/TestingWCAG2\WPSS_Install.exe))
 
-== Version 3.6 ==
-
-{|
-! Version
-! Source code
-! Production files
-! Release notes
-|-
-|Latest changes
-|[https://github.com/langloisga/TestingWCAG2/WPSS_Install.exe Download]
-|
-|-
-|}
