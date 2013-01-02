@@ -6,12 +6,10 @@ Success Criteria  WACAG2 AA
 
 
 Guideline 1.1 Text Alternatives
-
 1.1.1 Non-text content
 
 
 Guideline 1.2 Time-based Media
-
 1.2.1 Audio-only and Video-only (Prerecorded)
 
 1.2.2 Captions (Prerecorded)
@@ -24,7 +22,6 @@ Guideline 1.2 Time-based Media
 
 
 Guideline 1.3 Adaptable
-
 1.3.1 Info and Relationships
 
 1.3.2 Meaningful Sequence
@@ -33,7 +30,6 @@ Guideline 1.3 Adaptable
 
 
 Guideline 1.4 Distinguishable
-
 1.4.1 Use of Color
 
 1.4.2 Audio Control
@@ -46,26 +42,22 @@ Guideline 1.4 Distinguishable
 
 
 Guideline 2.1 Keyboard Accessible
-
 2.1.1 Keyboard
 
 2.1.2 No Keyboard Trap
 
 
 Guideline 2.2 Enough Time
-
 2.2.1 Timing Adjustable
 
 2.2.2 Pause, Stop, Hide
 
 
 Guideline 2.3 Seizures
-
 2.3.1 Three Flashes or Below Threshold
 
 
 Guideline 2.4 Navigable
-
 2.4.1 Bypass Blocks
 
 2.4.2 Page Titled
@@ -82,14 +74,12 @@ Guideline 2.4 Navigable
 
 
 Guideline 3.1 Readable
-
 3.1.1 Language of Page
 
 3.1.2 Language of Parts
 
 
 Guideline 3.2 Predictable
-
 3.2.1 On Focus
 
 3.2.2 On Input
@@ -98,8 +88,8 @@ Guideline 3.2 Predictable
 
 3.2.4 Consistent Identification
 
-Guideline 3.3 Input Assistance
 
+Guideline 3.3 Input Assistance
 3.3.1 Error Identification
 
 3.3.2 Labels or Instructions
@@ -110,7 +100,6 @@ Guideline 3.3 Input Assistance
 
 
 Guideline 4.1 Compatible
-
 4.1.1 Parsing
 
 4.1.2 Name, Role, Value
