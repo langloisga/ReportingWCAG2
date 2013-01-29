@@ -24,8 +24,18 @@
 * *Standard on Web Usability* http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=text
 * *Guidance on Implementing the Standard on Web Usability* http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24370
 * *WET Template* https://github.com/wet-boew/wet-boew
-
-
-**W3C**
 * *Web Content Accessibility Guidelines (WCAG) 2.0* (http://www.w3.org/TR/WCAG20)
 * *WCAG Quick Reference* (http://www.3pha.com/wcag2)
+
+## Background
+
+The Secretary of the Treasury Board announced in January 2010 that the existing CLF 2.0 Standards 
+would be replaced by three new standards: the Standard on Web Accessibility, the Standard on Web Usability,
+and the Standard on Web Interoperability. This announcement signalled that the Government of Canada would move towards adopting
+WCAG 2.0 - the most current internationally recognized guidelines on Web accessibility.  
+
+## Recommendation 
+
+The use of the Web Experience Toolkit (WET) template is highly recommended to comply with the new Standards on Web Accessibility WCAG 2.0 
+and Web Usability;  The toolkit will also ease compliance with the Standard on Web Interoperability.
+
