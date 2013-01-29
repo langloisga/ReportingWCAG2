@@ -18,9 +18,7 @@
 * **WCAG Contrast Checker** https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
 
 
-**GOVERNMENT OF CANADA Web Standards**
-
-**Standards and Guidance**
+**GOVERNMENT OF CANADA Web Standards and Guidance**
 * *Standard on Web Accessibility* http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601&section=text
 * *Guidance on Implementing the Standard on Web Accessibility* http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23844
 * *Standard on Web Usability* http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=text
