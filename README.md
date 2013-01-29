@@ -36,6 +36,6 @@ WCAG 2.0 - the most current internationally recognized guidelines on Web accessi
 
 ## Recommendation 
 
-The use of the Web Experience Toolkit (WET) template is highly recommended to comply with the new Standards on Web Accessibility WCAG 2.0 
+The use of the [Web Experience Toolkit (WET) template] (https://github.com/wet-boew/wet-boew) is highly recommended to comply with the new Standards on Web Accessibility WCAG 2.0 
 and Web Usability;  The toolkit will also ease compliance with the Standard on Web Interoperability.
 
