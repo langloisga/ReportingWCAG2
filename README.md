@@ -1,4 +1,4 @@
-# Testing Web pages based on WCAG2 standards
+# Testing Web pages based on WCAG 2.0 standard
 
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
