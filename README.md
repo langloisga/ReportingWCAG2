@@ -3,9 +3,9 @@
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
 
-  **Helpful Accessibility Testing Tools and Addons for Firefox follows:**
+  **WCAG Tools and WCAG Addons for Firefox follows:**
 
-* **WPSS v3.6** ([DOWNLOAD](https://github.com/langloisga/TestingWCAG2/archive/master.zip))
+* **WPSS v3.6** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
 * **W3C Markup Validator** http://validator.w3.org/#validate-by-input
 * **W3C CSS Validator Service** http://jigsaw.w3.org/css-validator/#validate_by_input
 * **W3C Feed Validator Service** http://validator.w3.org/feed/#validate_by_input
