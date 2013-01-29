@@ -16,3 +16,5 @@
 * **Color Contrast tool** http://juicystudio.com/services/luminositycontrastratio.php
 * **ColorZilla** https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
 * **WCAG Contrast Checker** https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
+
+The link of the three conformance levels of the W3C follows: [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20), and the U.S. [Section 508](http://section508.gov/index.cfm?fuseAction=stdsdoc) legislation.
