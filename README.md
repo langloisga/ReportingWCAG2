@@ -17,6 +17,12 @@
 * **ColorZilla** https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
 * **WCAG Contrast Checker** https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
 
+## Background
+
+The Secretary of the Treasury Board announced in January 2010 that the existing CLF 2.0 Standards 
+would be replaced by three new standards: the Standard on Web Accessibility, the Standard on Web Usability,
+and the Standard on Web Interoperability. This announcement signalled that the Government of Canada would 
+move towards adopting WCAG 2.0 - the most current internationally recognized guidelines on Web accessibility.  
 
 **GOVERNMENT OF CANADA Web Standards and Guidance**
 * *Standard on Web Accessibility* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601&section=text)
@@ -26,13 +32,6 @@
 * *WET Template* (https://github.com/wet-boew/wet-boew)
 * *Web Content Accessibility Guidelines (WCAG) 2.0* (http://www.w3.org/TR/WCAG20)
 * *WCAG Quick Reference* (http://www.3pha.com/wcag2)
-
-## Background
-
-The Secretary of the Treasury Board announced in January 2010 that the existing CLF 2.0 Standards 
-would be replaced by three new standards: the Standard on Web Accessibility, the Standard on Web Usability,
-and the Standard on Web Interoperability. This announcement signalled that the Government of Canada would 
-move towards adopting WCAG 2.0 - the most current internationally recognized guidelines on Web accessibility.  
 
 ## Recommendation 
 
