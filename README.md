@@ -33,9 +33,15 @@ move towards adopting WCAG 2.0 - the most current internationally recognized gui
 * *Web Content Accessibility Guidelines (WCAG) 2.0* (http://www.w3.org/TR/WCAG20)
 * *WCAG Quick Reference* (http://www.3pha.com/wcag2)
 
-## Recommendation 
+## Benefits of using Web Experience Toolkit (WET) include:
+* Reduce costs using ready-made Web tools and solutions for building and maintaining innovative websites (including Web applications).
+* Decrease website (including Web applications) development times by using a wide range of supported website (including Web applications) layouts and designs.
+* Use existing website (including Web applications) features that respect accessibility (WCAG 2.0 AA and WAI-ARIA), usability, and interoperability.
+* Apply advanced and innovative technologies to push the envelope for website (including Web applications) functionality:
+        HTML5, CSS3, jQuery (JavaScript framework);
+        Ever-growing list of open source plugins and widgets.
+* Use open source software that is free for use by institutions and external Web communities.
 
-The use of the [Web Experience Toolkit (WET) template] (https://github.com/wet-boew/wet-boew) is highly 
-recommended to comply with the new Standards on Web Accessibility (WCAG 2.0) and Web Usability;  
-The toolkit will also ease compliance with the Standard on Web Interoperability.
-
+Build Web pages using the most recent version of the [Web Experience Toolkit (WET)] (https://github.com/wet-boew/wet-boew).
+is highly recommended. WET is a collection of ready-made tools and solutions for building and maintaining 
+innovative websites (including Web applications) that are accessible, usable, and interoperable.
