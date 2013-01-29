@@ -31,11 +31,12 @@
 
 The Secretary of the Treasury Board announced in January 2010 that the existing CLF 2.0 Standards 
 would be replaced by three new standards: the Standard on Web Accessibility, the Standard on Web Usability,
-and the Standard on Web Interoperability. This announcement signalled that the Government of Canada would move towards adopting
-WCAG 2.0 - the most current internationally recognized guidelines on Web accessibility.  
+and the Standard on Web Interoperability. This announcement signalled that the Government of Canada would 
+move towards adopting WCAG 2.0 - the most current internationally recognized guidelines on Web accessibility.  
 
 ## Recommendation 
 
-The use of the [Web Experience Toolkit (WET) template] (https://github.com/wet-boew/wet-boew) is highly recommended to comply with the new Standards on Web Accessibility WCAG 2.0 
-and Web Usability;  The toolkit will also ease compliance with the Standard on Web Interoperability.
+The use of the [Web Experience Toolkit (WET) template] (https://github.com/wet-boew/wet-boew) is highly 
+recommended to comply with the new Standards on Web Accessibility (WCAG 2.0) and Web Usability;  
+The toolkit will also ease compliance with the Standard on Web Interoperability.
 
