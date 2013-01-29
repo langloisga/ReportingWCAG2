@@ -3,7 +3,7 @@
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
 
-  **WCAG Tools and WCAG Addons for Firefox follows:**
+  **WCAG Tools and Addons for Firefox follows:**
 
 * **WPSS v3.6** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
 * **W3C Markup Validator** http://validator.w3.org/#validate-by-input
