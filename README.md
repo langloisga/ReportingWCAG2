@@ -42,6 +42,6 @@ move towards adopting WCAG 2.0 - the most current internationally recognized gui
         Ever-growing list of open source plugins and widgets.
 * Use open source software that is free for use by institutions and external Web communities.
 
-Build Web pages using the most recent version of the [Web Experience Toolkit (WET)] (https://github.com/wet-boew/wet-boew).
-is highly recommended. WET is a collection of ready-made tools and solutions for building and maintaining 
+Build Web pages using the most recent version of the [Web Experience Toolkit (WET)] (https://github.com/wet-boew/wet-boew) is
+highly recommended. WET is a collection of ready-made tools and solutions for building and maintaining 
 innovative websites (including Web applications) that are accessible, usable, and interoperable.
