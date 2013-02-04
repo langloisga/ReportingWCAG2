@@ -16,6 +16,7 @@
 * **Color Contrast tool** http://juicystudio.com/services/luminositycontrastratio.php
 * **ColorZilla** https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
 * **WCAG Contrast Checker** https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
+* **CSE HTML Validator** http://www.htmlvalidator.com/
 
 ## Background
 
