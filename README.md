@@ -3,7 +3,7 @@
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
 
-  **WCAG Tools and Addons for Firefox follows:**
+## WCAG Tools
 
 * **WPSS v3.6** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
 * **W3C Markup Validation Service** http://validator.w3.org/#validate-by-input
@@ -26,7 +26,7 @@ would be replaced by three new standards: the Standard on Web Accessibility, the
 and the Standard on Web Interoperability. This announcement signalled that the Government of Canada would 
 move towards adopting WCAG 2.0 - the most current internationally recognized guidelines on Web accessibility.  
 
-**GOVERNMENT OF CANADA Web Standards and Guidance**
+**Government of Canada Web Standards and Guidelines**
 * *Standard on Web Accessibility* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601&section=text)
 * *Standard on Web Usability* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=text)
 * *Guidance on Implementing the Standard on Web Accessibility* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23844)
