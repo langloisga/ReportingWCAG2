@@ -12,6 +12,7 @@
 * **Total Validator** https://addons.mozilla.org/en-US/firefox/addon/total-validator/
 * **Accessibility Tool bar** https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/
 * **Web Developers Tool bar** https://addons.mozilla.org/en-US/firefox/addon/web-developer/
+* **Firebug** https://addons.mozilla.org/en-US/firefox/addon/firebug/
 * **WAVE Tool Bar** https://addons.mozilla.org/en-us/firefox/addon/wave-toolbar/
 * **Color Contrast tool** http://juicystudio.com/services/luminositycontrastratio.php
 * **ColorZilla** https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
