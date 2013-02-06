@@ -3,7 +3,7 @@
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
 
-## WCAG Tools and Developer Utilities
+## WCAG Tools and Web Developer Utilities
 
 * **WPSS v3.6** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
 * **W3C Markup Validation Service** http://validator.w3.org/#validate-by-input
