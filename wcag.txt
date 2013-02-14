@@ -15,7 +15,6 @@ WCAG Tools and Web Developer Utilities
     WCAG Contrast Checker https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
     CSE HTML Validator http://www.htmlvalidator.com/
 
-
 GOVERNMENT OF CANADA Web Standards and Guidance
 
     Standard on Web Accessibility http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601&section=text
