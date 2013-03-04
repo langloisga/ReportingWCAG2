@@ -19,6 +19,10 @@
 * **ColorZilla** https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
 * **WCAG Contrast Checker** https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
 * **CSE HTML Validator** http://www.htmlvalidator.com/
+ 
+**Popular Assistive Technology Products follows:**
+* **JAWS** http://www.freedomscientific.com/downloads/jaws/jaws-downloads.asp
+* **NVDA** http://www.nvda-project.org/wiki/Download
 
 ## Background
 
