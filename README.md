@@ -6,6 +6,7 @@
 ## WCAG Tools and Web Developer Utilities
 
 * **Testing Procedures Kit** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
+* **PWGSC WPSS tool** https://github.com/wet-boew/wet-boew-wpss
 * **W3C Markup Validation Service** http://validator.w3.org/#validate-by-input
 * **W3C CSS Validation Service** http://jigsaw.w3.org/css-validator/#validate_by_input
 * **W3C Feed Validation Service** http://validator.w3.org/feed/#validate_by_input
