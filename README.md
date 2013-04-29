@@ -24,6 +24,7 @@
 **Popular Assistive Technology Products follows:**
 * **JAWS** http://www.freedomscientific.com/downloads/jaws/jaws-downloads.asp
 * **NVDA** http://www.nvda-project.org/wiki/Download
+* **ChromeVox** http://www.chromevox.com/
 
 
 ## Background
