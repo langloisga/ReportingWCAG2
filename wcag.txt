@@ -15,6 +15,13 @@ WCAG Tools and Web Developer Utilities
     WCAG Contrast Checker https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
     CSE HTML Validator http://www.htmlvalidator.com/
 
+Popular Assistive Technology Products follows:
+
+    JAWS http://www.freedomscientific.com/downloads/jaws/jaws-downloads.asp
+    NVDA http://www.nvda-project.org/wiki/Download
+    ChromeVox http://www.chromevox.com/
+
+
 GOVERNMENT OF CANADA Web Standards and Guidance
 
     Standard on Web Accessibility http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601&section=text
