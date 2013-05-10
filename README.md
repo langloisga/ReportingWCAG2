@@ -3,7 +3,7 @@
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
 
-## WCAG Tools and Web Developer Utilities
+## WCAG2 Tools and Web Developer Utilities
 
 * **Testing Procedures Kit** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
 * **PWGSC WPSS tool** https://github.com/wet-boew/wet-boew-wpss
