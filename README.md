@@ -23,9 +23,10 @@
 * **OpenAjax Alliance** https://addons.mozilla.org/en-us/firefox/addon/openajax-accessibility-exte/
  
 **Popular Assistive Technology Products follows:**
+* **ChromeVox** http://www.chromevox.com/
 * **JAWS** http://www.freedomscientific.com/downloads/jaws/jaws-downloads.asp
 * **NVDA** http://www.nvda-project.org/wiki/Download
-* **ChromeVox** http://www.chromevox.com/
+
 
 
 ## Background
