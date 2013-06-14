@@ -3,7 +3,7 @@ Please note that the WPSS executable includes Perl 5.14.2 Build 1402 & Python 2.
 
 You can find the WPSS executable file at the following link: https://github.com/langloisga/TestingWCAG2
 OR
-Send an e-mail to planificationweb-webplanning@tpsgc-pwgsc.gc.ca to get a link to the latest WPSS tool.
+Send an e-mail to planificationweb-webplanning@tpsgc-pwgsc.gc.ca to get a link for the latest WPSS tool.
 
 
 Instruction to INSTALL the WPSS Tool if you have already a previous version Installed on your machine (and If Perl & Python is already installed) follows:
