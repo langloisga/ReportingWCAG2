@@ -6,7 +6,8 @@ OR
 Send an e-mail to planificationweb-webplanning@tpsgc-pwgsc.gc.ca to get a link to the latest WPSS tool.
 
 
-Instruction to INSTALL the WPSS Tool if you have already a previous version Installed on your machine (and If Perl & Python is already installed) follows:
+Instruction to INSTALL the WPSS Tool if you have already a previous version Installed on your machine 
+(If Perl & Python are already installed) follows:
 -Open the executable file you have copied. (e.g. WPSS_Install3_9_1.exe)
 -If the "Open File - Security Warning" Window appears, Press "Run"  
 -From the "WPSS Tool Setup" Window, Press "Next" then 
