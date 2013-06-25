@@ -26,7 +26,7 @@ Instruction to UNINSTALL the WPSS tool and all its components (Perl & Python) fo
 -Click the "Remove" button on the "Python" program
 -Click the "Remove" button on the "WPSS" program
 -Also, make sure to remove the remaining folder C:\Perl  
--From the Start button> Run > Enter: regedit and click ok
+-Type "regedit.exe" from the Start button> Run and click ok
 -From the "Registry Editor", make sure to remove the following Folders: ActiveState, Perl and Python
 -If these previous programs exist they will be found in
 HKEY_CURRENT_USER>SOFTWARE and/or
