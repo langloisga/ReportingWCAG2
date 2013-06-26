@@ -5,6 +5,7 @@ You can find the WPSS executable file at the following link: https://github.com/
 OR
 Send an e-mail to planificationweb-webplanning@tpsgc-pwgsc.gc.ca to get a link to the latest WPSS tool.
 
+______________________________________________________________________________________________________
 
 Instruction to INSTALL the WPSS Tool if you have already a previous version Installed on your machine 
 (If Perl & Python are already installed) follows:
@@ -14,11 +15,11 @@ Instruction to INSTALL the WPSS Tool if you have already a previous version Inst
 -Make sure the Destination Folder is "C:\Program Files\WPSS_Tool" and on the "Install" button
 -Wait a moment until the Installation is Completed Then 
 -Click on the "Close" button
-
 (Ignore the DOS Prompted with the information message)
 
 Another message should pop-up with "You have successfully initialized the WPSS Tool", Click OK.
 
+_______________________________________________________________________________________________________
 
 Instruction to UNINSTALL the WPSS tool and all its components (Perl & Python) follows:
 -In Control Panel, click on "Add Remove Programs" then
@@ -34,6 +35,7 @@ HKEY_LOCAL_MACHINE>SOFTWARE
 
 Before you re-install again, make sure to reboot your PC. 
 
+_______________________________________________________________________________________________________
 
 Instruction to INSTALL the WPSS Tool from scratch (The WPSS executable includes Perl & Python) follows:
 -Open the executable file you have copied. (e.g. WPSS_Install3_9_1.exe)
