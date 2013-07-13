@@ -28,7 +28,6 @@
 * **NVDA** http://www.nvda-project.org/wiki/Download
 
 
-
 ## Background
 
 The Secretary of the Treasury Board announced in January 2010 that the existing CLF 2.0 Standards 
