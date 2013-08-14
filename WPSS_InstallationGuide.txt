@@ -47,7 +47,7 @@ Instruction to INSTALL the WPSS Tool from scratch (The WPSS executable includes 
 -Keep the 2 check marks checked by default and click on "Next" and click on the "Install" button
 -Wait a moment until the Installation of ActivePerl is Completed Then 
 -Click on the "Finish" button
--The "WPSS Tool 3.9.1 Setup" window should appear again, Click on Next
+-The "WPSS Tool Setup" window should appear again, Click on Next
 -Make sure the Destination Folder is "C:\Program Files\WPSS_Tool" and click on the "Install" button
 -Wait a moment until the Installation is Completed Then 
 -Click on the "Close" button
