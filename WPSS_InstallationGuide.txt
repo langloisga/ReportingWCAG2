@@ -53,7 +53,7 @@ Instruction to INSTALL the WPSS Tool from scratch (The WPSS executable includes 
 -Click on the "Close" button
 -You can ignore the DOS window that displayed but the "Python 2.7.3 Setup" should display then 
 -Click on the "Next" button
--Make sure the Destination Folder is "C:\Python27" and on the "Next" button
+-Make sure the Destination Folder is "C:\Python27" then click on the "Next" button
 -Keep the customize feature by default and click on "Next" 
 -Wait a moment until the message "You have successfully initialized the WPSS Tool" appears
 -Then Click OK
