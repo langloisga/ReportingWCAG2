@@ -3,24 +3,23 @@
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
 
-## WCAG2 Tools and Web Developer Utilities
+## Most popular WCAG2 Tools for Web Developers and Testers
 
-* **Testing Procedures Kit** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
-* **PWGSC WPSS tool** https://github.com/wet-boew/wet-boew-wpss
+* **WPSS tool v3.10 Executable included** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
 * **W3C Markup Validation Service** http://validator.w3.org/#validate-by-input
+* **WCAG Contrast Checker** https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
+* **CSE HTML Validator** http://www.htmlvalidator.com/
+* **OpenAjax Alliance** https://addons.mozilla.org/en-us/firefox/addon/openajax-accessibility-exte/
+* **Total Validator** http://www.totalvalidator.com/downloads/index.html
+* **WAVE Tool Bar** https://addons.mozilla.org/en-us/firefox/addon/wave-toolbar/
 * **W3C CSS Validation Service** http://jigsaw.w3.org/css-validator/#validate_by_input
 * **W3C Feed Validation Service** http://validator.w3.org/feed/#validate_by_input
-* **Total Validator** http://www.totalvalidator.com/downloads/index.html
 * **Accessibility Tool bar** https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/
 * **Web Developers Tool bar** https://addons.mozilla.org/en-US/firefox/addon/web-developer/
 * **Firebug** https://addons.mozilla.org/en-US/firefox/addon/firebug/
 * **SortSite** http://try.powermapper.com/demo/sortsite.aspx
-* **WAVE Tool Bar** https://addons.mozilla.org/en-us/firefox/addon/wave-toolbar/
 * **Color Contrast tool** http://juicystudio.com/services/luminositycontrastratio.php
 * **ColorZilla** https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
-* **WCAG Contrast Checker** https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
-* **CSE HTML Validator** http://www.htmlvalidator.com/
-* **OpenAjax Alliance** https://addons.mozilla.org/en-us/firefox/addon/openajax-accessibility-exte/
  
 **Popular Assistive Technology Products follows:**
 * **JAWS** http://www.freedomscientific.com/downloads/jaws/jaws-downloads.asp
