@@ -12,14 +12,15 @@
 * **OpenAjax Alliance** https://addons.mozilla.org/en-us/firefox/addon/openajax-accessibility-exte/
 * **Total Validator** http://www.totalvalidator.com/downloads/index.html
 * **WAVE Tool Bar** https://addons.mozilla.org/en-us/firefox/addon/wave-toolbar/
-* **W3C CSS Validation Service** http://jigsaw.w3.org/css-validator/#validate_by_input
-* **W3C Feed Validation Service** http://validator.w3.org/feed/#validate_by_input
 * **Accessibility Tool bar** https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/
 * **Web Developers Tool bar** https://addons.mozilla.org/en-US/firefox/addon/web-developer/
 * **Firebug** https://addons.mozilla.org/en-US/firefox/addon/firebug/
 * **SortSite** http://try.powermapper.com/demo/sortsite.aspx
 * **Color Contrast tool** http://juicystudio.com/services/luminositycontrastratio.php
 * **ColorZilla** https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
+* **W3C Feed Validation Service** http://validator.w3.org/feed/#validate_by_input
+* **W3C CSS Validation Service** http://jigsaw.w3.org/css-validator/#validate_by_input
+
  
 **Popular Assistive Technology Products follows:**
 * **JAWS** http://www.freedomscientific.com/downloads/jaws/jaws-downloads.asp
