@@ -17,7 +17,7 @@ After the Installation is completed, locate the QA-WS-Tool directory found at th
 * 4.	Output-WPSS.xls
 * 5.	ReportingTool_v1.0.jar (To start the Reporting tool, just double-click on the jar file) 
 
-**Software Requirements:**
+**Software Requirements:**  The following Softwares are required prior the execution of the Reporting Tool jar:
 * Java Runtime version 7 (32 bit) or above
 * CSE HTML Total Validator Pro 14
 * WPSS v3.10.0 or above 
