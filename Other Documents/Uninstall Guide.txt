@@ -1,0 +1,129 @@
+
+
+Step 1:
+Perl and Python must be installed on the workstation prior to installing the WPSS_Tool and the  QA-WS-Tool on your C drive.
+
+NOTE: IF prior version exist of Peral and Pyton please uninstall
+
+A) Install Strawberry Perl 5.18 (32 bit) and Reboot
+http://strawberry-perl.googlecode.com/files/strawberry-perl-5.18.1.1-32bit.msi 
+
+
+B) Install Python 2.7.6 and Reboot
+http://python.org/ftp/python/2.7.6/python-2.7.6.msi and Reboot
+
+Step 2:Install WPSS Exe file and Reboot
+https://github.com/wet-boew/wet-boew-wpss/releases/download/4.0.1/WPSS_Tool.exe
+
+Ref:
+https://github.com/wet-boew/wet-boew-wpss
+
+
+Step 4: Install CSE HTML Validator Pro tool and Reboot
+http://www.htmlvalidator.com/htmldownload.html
+
+
+Step 5: Unzip "TEstingWCGA2-master.zip" package. Install QA-WS-Tool. Run install .bat file 
+https://github.com/langloisga/TestingWCAG2
+
+
+Step 6: Install Firefox and Add-ons in sequence
+http://www.mozilla.org/en-US/firefox/features/ 
+
+https://addons.mozilla.org/en-US/firefox/addon/60
+https://addons.mozilla.org/en-US/firefox/addon/wave-toolbar/?src=ss
+https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/?src=ss
+https://addons.mozilla.org/en-US/firefox/addon/juicy-studio-accessibility-too/?src=ss
+https://addons.mozilla.org/en-US/firefox/addon/colorzilla/?src=ss
+https://addons.mozilla.org/en-US/firefox/addon/firebug/?src=ss
+https://addons.mozilla.org/en-us/firefox/addon/openajax-accessibility-exte/versions/
+https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/?src=search
+
+
+
+
+NOTE: Environment must be Window 7 and Internet Exploer 9
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+DETAILS:
+
+
+
+Please note that the WPSS executable includes Perl 5.14.2 Build 1402 & Python 2.7.3 installation 
+
+
+You can find the WPSS executable file at the following link: https://github.com/langloisga/TestingWCAG2
+OR
+Send an e-mail to planificationweb-webplanning@tpsgc-pwgsc.gc.ca to get a link to the latest WPSS tool.
+
+
+Instruction to INSTALL the WPSS Tool if you have already a previous version Installed on your machine (and If Perl & Python is already installed) follows:
+-Open the executable file (In Windows 7 - with administrator account, Run as Administrator). (e.g. WPSS_Install3_11_0.exe)
+-If the "Open File - Security Warning" Window appears, Press "Run"  
+-From the "WPSS Tool Setup" Window, Press "Next" then 
+-Make sure the Destination Folder is "C:\Program Files\WPSS_Tool" Then 
+-Click on "Next" and on the "Install" button
+-Wait a moment until the Installation is Completed Then 
+-Click on the "Close" button
+
+The message "You have successfully initialized the WPSS Tool" should appear, Click OK.
+
+
+Instruction to UNINSTALL the WPSS tool and all its components (Perl & Python) follows:
+-In Control Panel, click on "Add Remove Programs" then
+-Click the "Remove" button on the "ActivePerl" program 
+-Click the "Remove" button on the "Python" program
+-Click the "Remove" button on the "WPSS" program
+-Also, make sure to remove the remaining folder C:\Perl  
+-From the Start button> Run > Enter: regedit and click ok
+-From the "Registry Editor", make sure to remove the following Folders: ActiveState, Perl and Python
+-If these previous programs exist they will be found in
+HKEY_CURRENT_USER>SOFTWARE or
+HKEY_CURRENT_USER>SOFTWARE>Wow6432Node
+HKEY_LOCAL_MACHINE>SOFTWARE or
+HKEY_LOCAL_MACHINE>SOFTWARE>Wow6432Node
+
+Before you re-install again, Make sure to reboot your PC. 
+
+
+Instruction to INSTALL the WPSS Tool from scratch (The WPSS executable includes Perl & Python) follows:
+-Open the executable file (In Windows 7 - Run as Administrator). (e.g. WPSS_Install3_10_0.exe)
+-If the "Open File - Security Warning" Window appears, click "Run" then 
+-From the "Installer Language", select "English" or "French" and click OK
+-When the Installer prompt you to Install Perl now, Click "YES"
+-From the "ActivePerl 5.14.2 Setup" Window, Press "Next" then
+-Click on "I accept terms in the License Agreement" and click on the "Next" button
+-The Default Location should be "C:\Perl" Then click on the "Next" button 
+-Keep the 2 check marks checked by default and click on "Next" and click on the "Install" button
+-Wait a moment until the Installation of ActivePerl is Completed Then 
+-Click on the "Finish" button
+-The "WPSS Tool Setup" window should appear again, Click on Next
+-Make sure the Destination Folder is "C:\Program Files\WPSS_Tool" and click on the "Install" button
+-Wait a moment until the Installation is Completed Then 
+-Click on the "Close" button
+-You can ignore the DOS window that displayed but the "Python 2.7.3 Setup" should display then 
+-Click on the "Next" button
+-Make sure the Destination Folder is "C:\Python27" then click on the "Next" button
+-Keep the customize feature by default and click on "Next" 
+-Wait a moment until the message "You have successfully initialized the WPSS Tool" appears
+-Then Click OK
+
+
+
+
+
+
+
+
+ 
+
