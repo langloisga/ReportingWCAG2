@@ -17,7 +17,7 @@ After the Installation is completed, locate the QA-WS-Tool directory found at th
 * 4.	Output-WPSS.xls
 * 5.	ReportingTool_v1.0.jar (To start the Reporting tool, just double-click on the jar file) 
 
-Note that Java Runtime version 7 32 bit is required.
+Note that Java Runtime version 7 (32 bit) is required.
 
 ## Following are other WCAG2 Tools for Web Developers and Testers
 
