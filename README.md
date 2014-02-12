@@ -13,11 +13,11 @@ This tool does not generate Web Usability reports at this time.
 After the Installation is completed, locate the QA-WS-Tool directory found at the ROOT of C drive. Ensure that the following 5 files exist .
 
 The 5 files are: 
-1.	Input.xls
-2.	Output-CSE.xls
-3.	Output-W3C-xls
-4.	Output-WPSS.xls
-5.	ReportingTool_v1.0.jar (To start the Reporting tool, just double-click on the jar file) 
+* 1.	Input.xls
+* 2.	Output-CSE.xls
+* 3.	Output-W3C-xls
+* 4.	Output-WPSS.xls
+* 5.	ReportingTool_v1.0.jar (To start the Reporting tool, just double-click on the jar file) 
 
 
 ## Following are other WCAG2 Tools for Web Developers and Testers
