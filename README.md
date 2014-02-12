@@ -12,7 +12,7 @@ This tool does not generate Web Usability reports at this time.
 **Installation Verification:**
 After the Installation is completed, locate the QA-WS-Tool directory found at the ROOT of C drive. Ensure that the following 5 files exist.
 The 5 files are: 
-* 1.	Input.xls  (Add Url page(s) to test in spreadsheet then execute the ReportingTool_v1.0.jar)
+* 1.	Input.xls  (Just Add your Url page(s) to test in this spreadsheet then execute the ReportingTool_v1.0.jar)
 * 2.	Output-CSE.xls
 * 3.	Output-W3C-xls
 * 4.	Output-WPSS.xls
