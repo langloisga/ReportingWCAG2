@@ -17,9 +17,9 @@ After the Installation is completed, locate the QA-WS-Tool directory found at th
 * 4.	Output-WPSS.xls
 * 5.	ReportingTool_v1.0.jar (To start the Reporting tool, just double-click on the jar file) 
 
-**Software Requirements:
-Java Runtime version 7 (32 bit) or above.
-CSE HTML Total Validator Pro 14.
+**Software Requirements:**
+**Java Runtime version 7 (32 bit) or above.
+*CSE HTML Total Validator Pro 14.
 
 
 ## Other WCAG2 Tools follows:
