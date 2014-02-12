@@ -19,7 +19,7 @@ After the Installation is completed, locate the QA-WS-Tool directory found at th
 
 Note that Java Runtime version 7 (32 bit) is required.
 
-## Following are other WCAG2 Tools for Web Developers and Testers
+## Other WCAG2 Tools follows:
 
 * **WPSS tool v3.10 Executable included** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
 * **W3C Markup Validation Service** http://validator.w3.org/#validate-by-input
