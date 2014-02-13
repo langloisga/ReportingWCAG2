@@ -15,7 +15,7 @@ Download the Automation Tool package then click on the InstallationSetUp.bat to 
 * 2.	Output-CSE.xls
 * 3.	Output-W3C-xls
 * 4.	Output-WPSS.xls
-* 5.	ReportingTool_v1.x.jar (To Execute the Reporting tool, just double-click on the jar file) (you may create a shortcut)
+* 5.	ReportingTool_v1.x.jar (To Execute the Reporting tool, just double-click on the jar file)
 
 **Software Requirements:**  The following Softwares are required prior the execution of the Reporting Tool jar file:
 * Java Runtime version 7 (32 bit) or above
