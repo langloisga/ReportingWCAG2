@@ -1,4 +1,4 @@
-# ReportingTool_V1.1.jar  AUTOMATION TOOL
+# ReportingTool_V1.1.jar AUTOMATION Tool
 
 
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
