@@ -3,8 +3,8 @@ Spreadsheet Report (Template) from the WPSS tool, CSE HTML Validator Pro tool
 and W3C tool.  Licence Permission is hereby granted, free of charge, to anyone
 obtaining a copy of this software and associated documentation files (the
 "Software"). Therefore, the author reserve limitations and rights to modify,
-merge, publish, sublicense and sell. Copyright has been reserved to Matrixx
-Hi-Tech Inc. The Software can be distribute under the following conditions:
+merge, publish, sublicense and sell. The Software can be distribute under 
+the following conditions:
  
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
