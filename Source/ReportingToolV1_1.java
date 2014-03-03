@@ -58,8 +58,8 @@ import javax.swing.JRadioButton;
  * <b>Description: </b> Permission is hereby granted, free of charge, to anyone
  * obtaining a copy of this software and associated documentation files (the
  * "Software"). Therefore, the author reserve limitations and rights to modify,
- * merge, publish, sublicense and sell. Copyright has been reserved to Matrixx
- * Hi-Tech Inc. The Software can be distribute under the following conditions:
+ * merge, publish, sublicense and sell. Copyright has been reserved 
+ * The Software can be distribute under the following conditions:
  * 
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
@@ -1368,14 +1368,14 @@ public class Script5 {
 				// ///////////////////////////////////////////////////////////////
 				TitleStripped = TitleStripped.trim();
 				// Convert meta charset ISO-8859-1 to UTF-8
-				TitleStripped = TitleStripped.replaceAll("&#233;","é");
-				TitleStripped = TitleStripped.replaceAll("&#192;","À");
-				TitleStripped = TitleStripped.replaceAll("&#224;","à");
+				TitleStripped = TitleStripped.replaceAll("&#233;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#192;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#224;","ï¿½");
 				TitleStripped = TitleStripped.replaceAll("&#39;","'");
-				TitleStripped = TitleStripped.replaceAll("&#232;","è");
-			    TitleStripped = TitleStripped.replaceAll("&#171;","«");
-				TitleStripped = TitleStripped.replaceAll("&#187;","»");
-				TitleStripped = TitleStripped.replaceAll("&#201;","É");
+				TitleStripped = TitleStripped.replaceAll("&#232;","ï¿½");
+			    TitleStripped = TitleStripped.replaceAll("&#171;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#187;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#201;","ï¿½");
 				TitleStripped = TitleStripped.replaceAll("&amp;", "&");	
 				//System.out.println("TitleStripped=" + TitleStripped);
 				// ///////////////////////////////////////////////////////////////
@@ -2543,14 +2543,14 @@ public class Script5 {
 					d1.setVisible(true);
 				}
 				// Convert meta charset ISO-8859-1 to UTF-8
-				TitleStripped = TitleStripped.replaceAll("&#233;","é");
-				TitleStripped = TitleStripped.replaceAll("&#192;","À");
-				TitleStripped = TitleStripped.replaceAll("&#224;","à");
+				TitleStripped = TitleStripped.replaceAll("&#233;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#192;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#224;","ï¿½");
 				TitleStripped = TitleStripped.replaceAll("&#39;","'");
-				TitleStripped = TitleStripped.replaceAll("&#232;","è");
-			    TitleStripped = TitleStripped.replaceAll("&#171;","«");
-				TitleStripped = TitleStripped.replaceAll("&#187;","»");
-				TitleStripped = TitleStripped.replaceAll("&#201;","É");
+				TitleStripped = TitleStripped.replaceAll("&#232;","ï¿½");
+			    TitleStripped = TitleStripped.replaceAll("&#171;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#187;","ï¿½");
+				TitleStripped = TitleStripped.replaceAll("&#201;","ï¿½");
 				TitleStripped = TitleStripped.replaceAll("&amp;", "&");	
 				// ///////////////////////////////////////////////////////////////
 				// System.out.println("TitleStripped=" + TitleStripped);
@@ -4230,14 +4230,14 @@ public class Script5 {
 							if (MsgDesc1.contains("3.2.4 G197")) {
 								if (MsgDesc1Line3 == "" == false) {		
 									// Convert meta charset ISO-8859-1 to UTF-8
-									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#233;", "é");
-									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#192;", "À");
-									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#224;", "à");
+									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#233;", "ï¿½");
+									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#192;", "ï¿½");
+									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#224;", "ï¿½");
 									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#39;", "'");
-									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#232;", "è");
-									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#171;", "«");
-									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#187;" ,"»");
-									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#201;", "É");
+									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#232;", "ï¿½");
+									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#171;", "ï¿½");
+									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#187;" ,"ï¿½");
+									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&#201;", "ï¿½");
 									//MsgDesc1Line3 = MsgDesc1Line3.replaceAll("&amp;", "&");	
 									CommentDesc1 = MsgDesc1.toString() + "\n" + MsgDesc1Line2.toString()
 											+ "\n" + MsgDesc1Line3 + "\n"
