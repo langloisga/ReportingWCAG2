@@ -20,7 +20,7 @@ Download the Automation Tool package then click on the InstallationSetUp.bat to 
 * CSE HTML Validator Pro 14
 * WPSS v3.10.0 or above 
 * Firefox 21 or above
-* Windows XP or 7
+* Windows 7
 * IE 9.0
 
 ## Other WCAG2 Tools follows:
