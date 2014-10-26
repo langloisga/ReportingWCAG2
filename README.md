@@ -24,6 +24,11 @@ Download the Automation Tool package then click on the InstallationSetUp.bat to 
 * IE 9.0
 
 **WCAG 2.0 Success Criteria Checklist:**  The following are required for a Web page to satisfy a WCAG 2.0 Success Criterion: 
+
+* Web page successfully avoids each common failure of the Success Criterion.
+* Web page successfully implements sufficient techniques or combinations of sufficient techniques for the Success Criterion that are:
+        Specific to each applicable situation; and
+        Specific to each technology that is relied upon to satisfy the Success Criterion (except where only general techniques are documented)
 * **12 Guidelines, 38 Success Criteria** (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wa-aw-assess-methd-eng.asp)
 
 ## Other WCAG2 Tools follows:
