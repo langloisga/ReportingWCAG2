@@ -23,7 +23,7 @@ Download the Automation Tool package then click on the InstallationSetUp.bat to 
 * Windows 7
 * IE 9.0
 
-**WCAG 2.0 Success Criteria Checklist** The following are required for a Web page to satisfy a WCAG 2.0 Success Criterion: 
+**WCAG 2.0 Success Criteria Checklist:**  The following are required for a Web page to satisfy a WCAG 2.0 Success Criterion: 
 * **12 Guidelines, 38 Success Criteria** (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wa-aw-assess-methd-eng.asp)
 
 ## Other WCAG2 Tools follows:
