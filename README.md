@@ -58,7 +58,7 @@ move towards adopting WCAG 2.0 - the most current internationally recognized gui
 * *Standard on Web Accessibility* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601&section=text)
 * *Standard on Web Usability* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=text)
 * *Guidance on Implementing the Standard on Web Accessibility* (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wa-aw-guid-eng.asp)
-* *Guidance on Implementing the Standard on Web Usability* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24370)
+* *Guidance on Implementing the Standard on Web Usability* (http://www.tbs-sct.gc.ca/ws-nw/wu-fe/wu-fe-guid-eng.asp)
 * *WET Template* (https://github.com/wet-boew/wet-boew)
 * *Web Content Accessibility Guidelines (WCAG) 2.0* (http://www.w3.org/TR/WCAG20)
 * *WCAG Quick Reference* (http://www.3pha.com/wcag2)
