@@ -23,6 +23,9 @@ Download the Automation Tool package then click on the InstallationSetUp.bat to 
 * Windows 7
 * IE 9.0
 
+**WCAG 2.0 Success Criteria Checklist** 
+* **12 Guidelines, 38 Success Criteria** (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wa-aw-assess-methd-eng.asp)
+
 ## Other WCAG2 Tools follows:
 
 * **WPSS tool v3.10 Executable included** (https://github.com/langloisga/TestingWCAG2/archive/master.zip)
