@@ -55,8 +55,8 @@ and the Standard on Web Interoperability. This announcement signalled that the G
 move towards adopting WCAG 2.0 - the most current internationally recognized guidelines on Web accessibility.  
 
 **Government of Canada Web Standards and Guidelines**
-* *Standard on Web Accessibility* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601&section=text)
-* *Standard on Web Usability* (http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=text)
+* *Standard on Web Accessibility* (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/index-eng.asp)
+* *Standard on Web Usability* (http://www.tbs-sct.gc.ca/ws-nw/wu-fe/index-eng.asp)
 * *Standard on Web Interoperability* (http://www.tbs-sct.gc.ca/ws-nw/wi-iw/index-eng.asp)
 * *Guidance on Implementing Web Accessibility* (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wa-aw-guid-eng.asp)
 * *Guidance on Implementing Web Usability* (http://www.tbs-sct.gc.ca/ws-nw/wu-fe/wu-fe-guid-eng.asp)
