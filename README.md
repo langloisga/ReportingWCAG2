@@ -52,7 +52,7 @@ Download the Automation Tool package then click on the InstallationSetUp.bat to 
  
 **Popular Assistive Technology Products follows:**
 * **JAWS** http://www.freedomscientific.com/downloads/jaws/jaws-downloads.asp
-* **NVDA** http://www.nvda-project.org/wiki/Download
+* **NVDA** http://www.nvda-project.org/wiki/Download/jaws
 * **ChromeVox** http://www.chromevox.com/
 
 ## Background
