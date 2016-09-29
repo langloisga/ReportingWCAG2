@@ -29,7 +29,7 @@ Download the Automation Tool package then click on the InstallationSetUp.bat to 
 * Web page successfully implements sufficient techniques or combinations of sufficient techniques for the Success Criterion that are:
         Specific to each applicable situation; and
         Specific to each technology that is relied upon to satisfy the Success Criterion (except where only general techniques are documented)
-* **12 Guidelines, 38 Success Criteria** (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wa-aw-assess-methd-eng.asp)
+* **12 Guidelines, 38 Success Criteria** (https://wet-boew.github.io/v4.0-ci/demos/wamethod/wamethod-AA-en.html)
 
 ## Other WCAG2 Tools follows:
 
